@@ -73,6 +73,7 @@ Please refer to the following wireframes for the basic design. Feel free to enha
 ## Submission Guidelines
 
 - Ensure your code is well-documented and follows clean code practices.
+- Ensure to provide a document any issues or challenges faced during development
 - Push your repository to GitHub and provide the link, or send us a zip file of the project.
 - Complete your solution within 7 days of receiving this challenge and notify us when it is ready for review.
 
