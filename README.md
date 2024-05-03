@@ -52,6 +52,7 @@ For compiling/running in a simulator, make sure you're set up for React Native b
 2. **Development Process**
 
    - Implement the UI based on provided Figma files.
+   - You can use the default fonts and style the text to look similar. There is no need to add custom fonts to the repo.
    - Utilize MobX-State-Tree for managing state across the app.
    - Mock data where data is needed, such as list of pets, list of bases, etc.
    - Frequently commit changes to demonstrate progress.
